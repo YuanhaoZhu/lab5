@@ -12,3 +12,12 @@
 h1, h2, h3, h4, h5 {
 	color: #8382BF;
 }
+/*add img-responsive class*/
+.img-responsive {}
+
+.img-rounded{}
+
+.friends{
+	width:300px;
+}
+.friend_name{}
